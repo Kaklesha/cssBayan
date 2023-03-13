@@ -56,10 +56,10 @@
     right: 13px;
     top: 7px;
    
-    background: transparent url(/img/gal.jpg) no-repeat center ;   
+    background: transparent url(img/gal.jpg) no-repeat center ;   
 } 
 .ac-container input:checked + label:hover:after {
-    background-image: url(/img/across.jpg) ;
+    background-image: url(img/across.jpg) ;
 }
 
 .ac-container input{
