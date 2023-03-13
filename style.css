@@ -23,7 +23,7 @@
     display: block;
     height: 30px;
     cursor: pointer;
-    color: #777;
+    color: #fc6d6d;
     text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
     line-height: 33px;
     font-size: 4vh;
@@ -32,7 +32,7 @@
 
 
 .ac-container label:hover   {
-    background: #8f0a0a;
+    background: #b47373;
     
 }
 
@@ -56,10 +56,10 @@
     right: 13px;
     top: 7px;
    
-    background: transparent url(/img/gal.jpg) no-repeat center ;   
+    background: transparent url(img/gal.jpg) no-repeat center ;   
 } 
 .ac-container input:checked + label:hover:after {
-    background-image: url(/img/across.jpg) ;
+    background-image: url(img/across.jpg) ;
 }
 
 .ac-container input{
@@ -68,7 +68,7 @@
 }
 
 .ac-container article{
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.87);
     margin-top: -1px;
     overflow: hidden;
     height: 0px;
@@ -84,7 +84,7 @@ transition: height 0.s ease-in-out, box-shadow 0.6s linear;
 
 .ac-container article p{
     font-style: italic;
-    color: #777;
+    color: #ee3f3f;
     line-height: 28px;
     font-size: 4vh;
     padding: 20px;
